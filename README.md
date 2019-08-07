@@ -51,8 +51,10 @@ Layer 7 load balancers look at the [application layer](#communication) to decide
 * A single load balancer is a single point of failure.
 
 
-
-
+### load balancer Result Cache
+<p align="center">
+  <img src="http://4.bp.blogspot.com/_j6mB7TMmJJY/TLlEpBawVMI/AAAAAAAAAfQ/Jp8vbVYnF0s/s400/P3.png/>
+</p>
 
 
 
